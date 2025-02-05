@@ -1,0 +1,20 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    text-decoration: none;
+    margin-left: 10px;
+   
+}
+.nav{
+    display: flex;
+    background-color:aqua;
+    justify-content: space-between;
+    color: black;
+   
+}
+.nav .nav2{
+    display: flex;
+    /* justify-content: space-around; */
+    gap: 60px;
+   
+}
